@@ -2,3 +2,4 @@ Timetravel?
 So we are how far into the future???
 Ok that was only one day, let's try a few years maybe?
 Ok how far can we go???
+So does git only use a 32 bit signed integer for unix time?
